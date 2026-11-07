@@ -4,7 +4,7 @@
 [![Downloads/month](https://img.shields.io/npm/dm/agentic-tracking)](https://www.npmjs.com/package/agentic-tracking)
 [![MIT license](https://img.shields.io/npm/l/agentic-tracking)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-tracking) · [Support](https://github.com/pooriaarab/agentic-tracking/issues)
+[Package](https://www.npmjs.com/package/agentic-tracking) · [Support](https://github.com/itsryanarmani/agentic-tracking/issues)
 
 agentic-tracking is an open-source call attribution toolkit for developers who map phone calls to campaigns.
 It reads Twilio, Telnyx, or local call records and writes attribution results to configured sinks.
@@ -155,7 +155,7 @@ Line-map files use a JSON array of objects with `number`, `campaign`, and `sourc
 ## Status
 
 Version 0.2.0 is an early release; APIs can change before 1.0.
-Report problems through [GitHub issues](https://github.com/pooriaarab/agentic-tracking/issues).
+Report problems through [GitHub issues](https://github.com/itsryanarmani/agentic-tracking/issues).
 Public case studies are not yet published.
 
 ## FAQ

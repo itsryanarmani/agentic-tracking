@@ -4,7 +4,7 @@
   "description": "Attribute calls to lines and credit leads.",
   "version": "0.2.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-tracking.git",
+    "url": "https://github.com/itsryanarmani/agentic-tracking.git",
     "source": "github"
   },
   "packages": [
