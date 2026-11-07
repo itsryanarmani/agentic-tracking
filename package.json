@@ -41,7 +41,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-tracking",
+  "mcpName": "io.github.itsryanarmani/agentic-tracking",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
